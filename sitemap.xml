@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://scale-up.ru/</loc>
+		<lastmod>2022-05-11T19:55:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://scale-up.ru/forpartners</loc>
+		<lastmod>2022-03-11T12:01:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://scale-up.ru/fortreners</loc>
+		<lastmod>2022-03-11T12:01:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://scale-up.ru/formentors</loc>
+		<lastmod>2022-03-11T12:01:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://scale-up.ru/geography</loc>
+		<lastmod>2022-03-11T12:01:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://scale-up.ru/aboutmentoring</loc>
+		<lastmod>2022-03-11T12:01:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://scale-up.ru/junior</loc>
+		<lastmod>2022-06-04T14:33:02+00:00</lastmod>
+	</url>
+</urlset>
